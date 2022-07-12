@@ -1,0 +1,135 @@
+{
+  "project_info": {
+    "project_number": "1060590925277",
+    "firebase_url": "https://app-roesel-default-rtdb.firebaseio.com",
+    "project_id": "app-roesel",
+    "storage_bucket": "app-roesel.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1060590925277:android:4dbb3092a60b63f31f3234",
+        "android_client_info": {
+          "package_name": "com.flutterflow.appedireito"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1060590925277-56doftk3gesqbnlh3nafoij2u1n0hu3q.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.flutterflow.appedireito",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "1060590925277-tmp1ug0dtbql5p2tdjb48peldk8egvru.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBpo-YREnjdJWIepebi9cdJvItIGM-0oTo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1060590925277-tmp1ug0dtbql5p2tdjb48peldk8egvru.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1060590925277-9g42n57l6ugdl18t4e98i11lp98qhh2p.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mycompany.roesel"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1060590925277:android:a870e87fae4df92e1f3234",
+        "android_client_info": {
+          "package_name": "com.flutterflow.sniffsocial"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1060590925277-tmp1ug0dtbql5p2tdjb48peldk8egvru.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBpo-YREnjdJWIepebi9cdJvItIGM-0oTo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1060590925277-tmp1ug0dtbql5p2tdjb48peldk8egvru.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1060590925277-9g42n57l6ugdl18t4e98i11lp98qhh2p.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mycompany.roesel"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1060590925277:android:b7ae33618fd40dae1f3234",
+        "android_client_info": {
+          "package_name": "com.mycompany.roesel"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1060590925277-5a70p0ra3b177vj81eeq1q1pbjfc6pr5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mycompany.roesel",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "1060590925277-tmp1ug0dtbql5p2tdjb48peldk8egvru.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBpo-YREnjdJWIepebi9cdJvItIGM-0oTo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1060590925277-tmp1ug0dtbql5p2tdjb48peldk8egvru.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1060590925277-9g42n57l6ugdl18t4e98i11lp98qhh2p.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mycompany.roesel"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
